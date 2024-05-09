@@ -1,0 +1,10 @@
+{
+    "DoW": "Sunday",
+    "hour": 1,
+    "minute": 0,
+    "date": "08-30-2020 00:00:00.0000",
+    "maintenance": "No",
+    "prod_loss": 179,
+    "prod_loss_perc": 65,
+    "production": 95
+}
