@@ -1,1 +1,3 @@
-jupyter notebook --notebook-dir="C:\Users\u0103525\OneDrive - KU Leuven\Cursussen\Data Scientist Syntra\GIT\Opdracht - statistiek - visualizatie"
+jupyter notebook --notebook-dir="C:\Users\u0103525\OneDrive - KU Leuven\Cursussen\Data Scientist Syntra\GIT\StatiVis"
+
+conda activate Stativis_env
